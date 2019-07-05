@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\ADTworkspace\\mpaas\\MpaaS_Portal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\download_cancel_btn_selector.xml",
+        "source": "E:\\ADTworkspace\\mpaas\\MpaaS_Portal\\app\\src\\main\\res\\drawable\\download_cancel_btn_selector.xml"
+    },
+    {
+        "merged": "E:\\ADTworkspace\\mpaas\\MpaaS_Portal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\download_icon.png",
+        "source": "E:\\ADTworkspace\\mpaas\\MpaaS_Portal\\app\\src\\main\\res\\drawable\\download_icon.png"
+    },
+    {
+        "merged": "E:\\ADTworkspace\\mpaas\\MpaaS_Portal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\yw_1222.jpg",
+        "source": "E:\\ADTworkspace\\mpaas\\MpaaS_Portal\\app\\src\\main\\res\\drawable\\yw_1222.jpg"
+    },
+    {
+        "merged": "E:\\ADTworkspace\\mpaas\\MpaaS_Portal\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\download_progress_horizontal.xml",
+        "source": "E:\\ADTworkspace\\mpaas\\MpaaS_Portal\\app\\src\\main\\res\\drawable\\download_progress_horizontal.xml"
+    }
+]

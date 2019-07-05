@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\ADTworkspace\\mpaas\\MpaaS_Portal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\init.xml",
+        "source": "E:\\ADTworkspace\\mpaas\\MpaaS_Portal\\app\\src\\main\\res\\layout\\init.xml"
+    },
+    {
+        "merged": "E:\\ADTworkspace\\mpaas\\MpaaS_Portal\\app\\build\\intermediates\\res\\merged\\debug\\layout\\download_progress.xml",
+        "source": "E:\\ADTworkspace\\mpaas\\MpaaS_Portal\\app\\src\\main\\res\\layout\\download_progress.xml"
+    }
+]

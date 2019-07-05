@@ -1,0 +1,2 @@
+include ':api', ':secondbundle-build'
+project(':secondbundle-build').projectDir = new File('app')

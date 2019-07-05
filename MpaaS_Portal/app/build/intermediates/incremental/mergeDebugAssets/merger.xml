@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="E:\ADTworkspace\mpaas\MpaaS_Portal\app\src\main\assets"><file name="mpaas.properties" path="E:\ADTworkspace\mpaas\MpaaS_Portal\app\src\main\assets\mpaas.properties"/></source><source path="E:\ADTworkspace\mpaas\MpaaS_Portal\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="E:\ADTworkspace\mpaas\MpaaS_Portal\app\src\debug\assets"/></dataSet></merger>

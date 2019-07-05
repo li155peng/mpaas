@@ -1,0 +1,54 @@
+apply plugin: 'com.android.application'
+apply plugin: 'com.alipay.bundle'
+apply plugin: 'android-apt'
+
+android {
+    compileSdkVersion 23
+    buildToolsVersion "26.0.2"
+
+    defaultConfig {
+        applicationId "com.csii.test.cn.launcher"
+        minSdkVersion 18
+        targetSdkVersion 23
+        versionCode 1
+        versionName "1.0"
+    }
+    buildTypes {
+        release {
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+uploadArchives {
+    repositories {
+        mavenLocal()
+    }
+}
+
+version = "1.1-SNAPSHOT"
+group = "com.csii.test.cn.launcher"
+
+bundle {
+    exportPackages ''
+    initLevel 11110000
+    packageName 'com.csii.test.cn.launcher'
+    packageId 36
+}
+
+dependencies {
+compile project(":api")
+provided 'com.alipay.android.phone.thirdparty:fastjson-api:1.1.45@jar'
+// androidsupport
+provided 'com.alipay.android.phone.thirdparty:androidsupport-api:13.23@jar'
+
+provided "com.alipay.android.phone.mobilesdk:framework-api:2.1.1@jar"
+}
+
+apply plugin: 'com.alipay.apollo.baseline.update'
+mpaascomponents{
+// when you want exclude mpaas dependencies ,you can add dependency ga to to excludeDependencies
+// or set removed = true in mpaaspakcages.json
+      excludeDependencies=[]
+}

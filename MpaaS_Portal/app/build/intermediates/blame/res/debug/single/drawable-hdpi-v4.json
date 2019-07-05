@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\ADTworkspace\\mpaas\\MpaaS_Portal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\download_cancel_normal.png",
+        "source": "E:\\ADTworkspace\\mpaas\\MpaaS_Portal\\app\\src\\main\\res\\drawable-hdpi\\download_cancel_normal.png"
+    },
+    {
+        "merged": "E:\\ADTworkspace\\mpaas\\MpaaS_Portal\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\download_cancel_press.png",
+        "source": "E:\\ADTworkspace\\mpaas\\MpaaS_Portal\\app\\src\\main\\res\\drawable-hdpi\\download_cancel_press.png"
+    }
+]
